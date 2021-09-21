@@ -202,7 +202,6 @@ caption {
 }
 
 thead th {
-
   /* width: 15%; */
   /* min-width: 10em; */
   /* border: 2px solid red; */
@@ -224,7 +223,6 @@ tr:nth-child(even) {
 }
 
 tr th:first-child {
-
   /* width: 10em; */
   width: 45%;
 }
@@ -274,7 +272,6 @@ select {
   margin-left: .2em;
   margin-right: .2em;
 }
-
 
 @media only screen and (min-width: 25em) {
 
@@ -342,7 +339,7 @@ select {
   .signup form {
     border: 1px solid #414141;
     border-radius: 4px;
-    padding: 2em 2em;
+    padding: 2em;
   }
 
 }
