@@ -246,7 +246,7 @@ tr th:first-child {
 
   /* padding-top: 2em;
   padding-bottom: 2em; */
-  margin: .5em;
+  /* margin: .5em; */
 }
 
 form div {
@@ -436,8 +436,9 @@ select {
 
     /* padding-top: 2em;
     padding-bottom: 2em; */
-    margin: .5em;
-    width: 10em;
+    /* margin: .5em; */
+
+    /* width: 10em; */
   }
 
   .reviews li {
