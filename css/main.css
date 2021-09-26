@@ -282,10 +282,6 @@ select {
 }
 
 @media only screen and (min-width: 38em) { /* 608 */
-  /* html {
-    font-size: 110%;
-    line-height: 1.4;
-  } */
 
   h1 {
     margin: 2em 1em;
@@ -303,10 +299,6 @@ select {
     margin-bottom: .6em;
   }
 
-  /* .nav a {
-    font-size: 80%;
-  } */
-
   .sign .btn {
     display: block;
     width: 20em;
@@ -319,9 +311,9 @@ select {
     margin-bottom: 1em;
   }
 
-  .sign + p {
+  /* .sign + p {
     font-size: .8em;
-  }
+  } */
 
   .introductory {
     padding: 4em 5em;
@@ -345,11 +337,6 @@ select {
 }
 
 @media only screen and (min-width: 60em) { /* 960 */
-  /*
-  html {
-    font-size: 120%;
-    line-height: 1.5;
-  } */
 
   .welcome {
     position: relative;
@@ -426,8 +413,6 @@ select {
     text-align: center;
     padding-top: 5em;
     padding-bottom: 5em;
-
-    /* line-height: 2; */
   }
 
   .price-cat {
@@ -453,9 +438,6 @@ select {
 }
 
 @media only screen and (min-width: 90em) { /* 1440 */
-  /* html {
-    font-size: 130%;
-  } */
 
   h1 {
     margin: 2.5em 4.5em 2em;
