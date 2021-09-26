@@ -47,7 +47,6 @@ span.logo {
   display: block;
   text-align: center;
   color: #9623a6;
-  font-size: 3em;
   margin-bottom: .5em;
 }
 
@@ -125,10 +124,6 @@ a:hover {
   margin-top: 4em;
 }
 
-.partners p {
-  font-weight: bold;
-}
-
 /* .introductory {
   background-image: url("../images/lingua-icon1.svg");
   background-position: center;
@@ -137,10 +132,6 @@ a:hover {
 
 .choose-compare {
   padding: 4em 2em;
-}
-
-.choose-compare p {
-  font-weight: bolder;
 }
 
 .choose-compare img {
@@ -175,9 +166,6 @@ a:hover {
   width: 15em;
   margin: .5em auto;
   font-family: Poppins, sans-serif;
-
-  /* font-weight: 700; */
-  font-weight: bold;
 }
 
 .sign .btn:hover {
@@ -311,10 +299,6 @@ select {
     margin-bottom: 1em;
   }
 
-  /* .sign + p {
-    font-size: .8em;
-  } */
-
   .introductory {
     padding: 4em 5em;
   }
@@ -384,10 +368,6 @@ select {
     margin-right: 2em;
   }
 
-  .nav a {
-    font-size: 70%;
-  }
-
   .nav li {
     margin-left: .5em;
   }
@@ -398,7 +378,6 @@ select {
     /* width: 15em;
     margin: .5em auto;
     font-family: Poppins, sans-serif;
-    font-weight: 700; */
   }
 
   .sign .btn:first-child {
